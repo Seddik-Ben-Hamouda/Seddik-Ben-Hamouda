@@ -69,15 +69,15 @@ I turn ideas into production web applications for companies and freelance client
 
 <table>
   <tr>
-    <td width="50%"><a href="https://block.unistudious.com"><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-quiz.svg" width="100%" alt="Unistudious Quiz Platform" /></a></td>
-    <td width="50%"><a href="https://portfolio-y3u6.onrender.com"><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-shop.svg" width="100%" alt="E-commerce Platform" /></a></td>
+    <td width="50%"><a href="https://unistudious.com"><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-quiz.svg" width="100%" alt="Unistudious Quiz Platform" /></a></td>
+    <td width="50%"><a href="https://vape-store-by-douma.vercel.app"><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-shop.svg" width="100%" alt="E-commerce Platform" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://portfolio-y3u6.onrender.com"><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-anissa.svg" width="100%" alt="Anissa BG" /></a></td>
-    <td><a href="https://portfolio-y3u6.onrender.com"><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-giuseppe.svg" width="100%" alt="Giuseppe" /></a></td>
+    <td><a href="https://anissa-bg.vercel.app"><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-anissa.svg" width="100%" alt="Anissa BG" /></a></td>
+    <td><a href=""><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-giuseppe.svg" width="100%" alt="Giuseppe" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://portfolio-y3u6.onrender.com"><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-pos.svg" width="100%" alt="Library Cashier POS" /></a></td>
+    <td><a href=""><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-pos.svg" width="100%" alt="Library Cashier POS" /></a></td>
     <td><a href="https://nawetcreation.tn"><img src="https://raw.githubusercontent.com/Seddik-Ben-Hamouda/Seddik-Ben-Hamouda/main/assets/c-nawet.svg" width="100%" alt="Nawet Creation" /></a></td>
   </tr>
   <tr>

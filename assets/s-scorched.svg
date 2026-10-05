@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111a2b"/><stop offset="1" stop-color="#0a101c"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FB7185"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#FB7185" stop-opacity=".3"/><stop offset="1" stop-color="#FB7185" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity=".07"/></pattern>
+<clipPath id="clip"><rect width="400" height="240" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="400" height="240" fill="url(#bg)"/>
+<rect width="400" height="240" fill="url(#dots)"/>
+<circle cx="350" cy="30" r="120" fill="url(#glow)"/>
+<rect width="400" height="4" fill="url(#ac)"/>
+</g>
+<rect x="1" y="1" width="398" height="238" rx="17" fill="none" stroke="url(#ac)" stroke-opacity=".45" stroke-width="1.5"/>
+<g transform="translate(330,22)">
+<rect width="48" height="48" rx="13" fill="#FB7185" fill-opacity=".12" stroke="#FB7185" stroke-opacity=".5"/>
+<g transform="translate(24,24)" fill="none" stroke="#FB7185" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="-12" y="-7" width="24" height="14" rx="6"/><path d="M-6-2v4M-8 0h4"/><circle cx="5" cy="-1" r=".8"/><circle cx="8" cy="2" r=".8"/></g>
+</g>
+<text x="26" y="48" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="11" letter-spacing="2" fill="#FB7185">EXPERIMENT</text>
+<text x="26" y="98" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#f1f5f9">Scorched Exile</text>
+<text x="26" y="124" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b9bb4">A game-development side project</text>
+<rect x="26" y="170" width="79" height="24" rx="12" fill="#FB7185" fill-opacity=".12" stroke="#FB7185" stroke-opacity=".45"/><text x="65.5" y="186" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#FB7185">Game Dev</text><rect x="113" y="170" width="94" height="24" rx="12" fill="#FB7185" fill-opacity=".12" stroke="#FB7185" stroke-opacity=".45"/><text x="160.0" y="186" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#FB7185">Experiment</text>
+<text x="26" y="222" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#FB7185">View on GitHub  →</text>
+</svg>

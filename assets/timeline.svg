@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111a2b"/><stop offset="1" stop-color="#0a101c"/></linearGradient>
+<linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#36BCF7"/><stop offset="1" stop-color="#7C5CFF"/></linearGradient>
+</defs>
+<g transform="translate(0,0)">
+<rect x="0.5" y="0.5" width="437" height="199" rx="18" fill="url(#bg)" stroke="#223049"/>
+<rect x="0" y="0" width="438" height="4" rx="2" fill="url(#t)" opacity=".0"/>
+<text x="30" y="44" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="2.5" fill="#36BCF7">EXPERIENCE</text>
+<rect x="30" y="64" width="2" height="104" rx="1" fill="#36BCF7" fill-opacity=".25"/>
+<circle cx="31" cy="76" r="7" fill="#0a101c" stroke="#36BCF7" stroke-width="2.5"/>
+<circle cx="31" cy="76" r="2.5" fill="#36BCF7"/>
+<text x="54" y="82" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#f1f5f9">Full Stack Developer</text>
+<text x="54" y="108" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c3cede">Freelance &amp; company projects</text>
+<rect x="54" y="126" width="179" height="26" rx="13" fill="#36BCF7" fill-opacity=".13" stroke="#36BCF7" stroke-opacity=".45"/>
+<text x="143.7" y="143" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#36BCF7">1+ year in production</text>
+</g>
+<g transform="translate(462,0)">
+<rect x="0.5" y="0.5" width="437" height="199" rx="18" fill="url(#bg)" stroke="#223049"/>
+<rect x="0" y="0" width="438" height="4" rx="2" fill="url(#t)" opacity=".0"/>
+<text x="30" y="44" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" letter-spacing="2.5" fill="#A78BFA">EDUCATION</text>
+<rect x="30" y="64" width="2" height="104" rx="1" fill="#A78BFA" fill-opacity=".25"/>
+<circle cx="31" cy="76" r="7" fill="#0a101c" stroke="#A78BFA" stroke-width="2.5"/>
+<circle cx="31" cy="76" r="2.5" fill="#A78BFA"/>
+<text x="54" y="82" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#f1f5f9">Professional Master's</text>
+<text x="54" y="108" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c3cede">ISI Ariana  ·  UVT</text>
+<rect x="54" y="126" width="105" height="26" rx="13" fill="#A78BFA" fill-opacity=".13" stroke="#A78BFA" stroke-opacity=".45"/>
+<text x="106.7" y="143" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#A78BFA">In progress</text>
+</g>
+</svg>

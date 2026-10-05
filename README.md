@@ -121,7 +121,6 @@ I turn ideas into production web applications for companies and freelance client
 
 <img alt="Streak" src="https://streak-stats.demolab.com?user=Seddik-Ben-Hamouda&theme=tokyonight&hide_border=true" />
 
-<img alt="Contribution graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Seddik-Ben-Hamouda&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
